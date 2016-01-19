@@ -19,7 +19,7 @@ print_hi('Tom')
 {% endhighlight %}
 
 {% vexflow myflow 400 170 %}
-tabstave notation=true tablature=false
+tabstave notation=true tablature=false key=Gm time=2/4
 notes 4-5-6/3 ## =|: 5-4-2/3 2/2 =:|
 
 tabstave notation=true tablature=false
